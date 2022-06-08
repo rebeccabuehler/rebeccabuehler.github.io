@@ -1,3 +1,3 @@
 # My Portfolio
 
-<a href='http://rebeccabuehler/pac-men'> Pac-Men Exercise </a>
+<a href='http://github.com/rebeccabuehler/pac-men'> Pac-Men Exercise </a>
