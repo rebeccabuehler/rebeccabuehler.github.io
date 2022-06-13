@@ -24,8 +24,8 @@
 ## Repo links
 
    * Pac-Men Exercise
-    <a href="https://rebeccabuehler.github.io/pac-men/"></a>
+   https://rebeccabuehler.github.io/pac-men/
    * Moving Eyes Exercise
-    <a href="https://rebeccabuehler.github.io/eyes/"></a>
+   https://rebeccabuehler.github.io/eyes/
    * Real Time Bus Tracker Exercise
-    <a href="https://rebeccabuehler.github.io/Real-Time-Bus-Tracker/"></a>
+   https://rebeccabuehler.github.io/Real-Time-Bus-Tracker/
