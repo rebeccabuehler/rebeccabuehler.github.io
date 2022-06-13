@@ -1,17 +1,31 @@
 # My Portfolio
-I am amking this portfolio to share how I have grown and communicate the work I have done. I will be making and adding a video introducing myself, and giving an overview of my skills.
-On my landing page I will have a bio, my git username, my linkedIn, and my contact information.
-I will provide special links to my git repositories of my three projects.
-Three projects will consist of my Pac-Men exercise, the Eyes exercise, and a Real Time Bus Tracker.
 
-I have added a bootstrap style, from here I will adjust it and chnage it to fit my objective of my portfolio.
-I plan on adding my viodeo introduction, inbedding links to my repos, and offering information on my skills and contact info.
+## Description
 
-# Sources
-my bootstrap source https://getbootstrap.com/docs/5.2/examples/carousel/
+   * This portfolio website will communicate how I have grown as a full stack developer and showcase some of my biggest projects so far
+   * It provides links to all my websites and provides all my contact information for anyone who is interested
+   * I will have a video to introduce myself and some of my skills
 
-# Repo links
-## My Pac-Men Repo
-<a href='http://github.com/rebeccabuehler/pac-men'> Pac-Men Exercise </a>
-## My Eyes Repo
-<a href='http://github.com/rebeccabuehler/eyes'> Eyes Exercise </a>
+## How to run
+   * Navigate to my portfolio page and from there you can access all my project websites and information
+
+## Roadmap
+
+   * Adjusted my starter bootstrap to fulfill all my programming needs
+   * Making and adding my introduction video
+   * Adding screenshots of my projects
+   * Imbedding links to my websites and more user interactive tabs to check out more things
+   * adding bio and contact information for anyone who is interested
+   * Maybe adding a resume page for further introduction to me
+
+## Sources
+  * My bootstrap source https://getbootstrap.com/docs/5.2/examples/carousel/
+
+## Repo links
+
+   * Pac-Men Exercise
+    <a href="https://rebeccabuehler.github.io/pac-men/"></a>
+   * Moving Eyes Exercise
+    <a href="https://rebeccabuehler.github.io/eyes/"></a>
+   * Real Time Bus Tracker Exercise
+    <a href="https://rebeccabuehler.github.io/Real-Time-Bus-Tracker/"></a>
